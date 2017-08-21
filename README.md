@@ -1,1 +1,1 @@
-# fine arts society website
+website of Fine Arts Society, IIIT Allahabad
