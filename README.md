@@ -1,1 +1,1 @@
-# fas
+# fine arts society website
